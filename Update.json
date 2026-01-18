@@ -4,8 +4,8 @@
         "首次更新",
         "此版本包括应用程序的初始发布及核心功能"
     ],
-    "URL1": "null",
-    "URL2": "null",
-    "URL3": "null",
-    "SHA256": "null"
+    "URL1": "https://start1712.github.io/NeoClick/NeoClick.exe",
+    "URL2": "https://github.com/start1712/NeoClick/releases/download/1.0.0/NeoClick.1.0.0.exe",
+    "URL3": "https://gitee.com/start1712/NeoClick/releases/download/1.0.0/NeoClick%201.0.0.exe",
+    "SHA256": "0e80d11ab7cedab202557a4651b5130dba89f0e57d8ca188c0dabe79193bf01b"
 }
